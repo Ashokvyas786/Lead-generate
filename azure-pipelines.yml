@@ -1,7 +1,4 @@
 # Starter pipeline
--
-
-
 pool:
   vmImage: ubuntu-latest
 
